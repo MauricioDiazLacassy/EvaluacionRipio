@@ -1,7 +1,7 @@
 # EvaluacionRipio
 
-EvaluacionRipioBackend está desarrollado en Djando
-EvaluacionRipioFrontend está desarrollad en React
+#EvaluacionRipioBackend está desarrollado en Djando.
+#EvaluacionRipioFrontend está desarrollad en React.
 
 Usuario administrador:
       Usuario: Admin
