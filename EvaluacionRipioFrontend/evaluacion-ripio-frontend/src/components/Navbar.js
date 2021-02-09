@@ -54,7 +54,12 @@ function NavBar () {
         })  
         .then(
             data => {
-                setSuperUser(data);            
+                if (data === 'true') {
+                    setSuperUser(true);   
+                }
+                else {
+                    setSuperUser(false);      
+                }             
             }
         ).catch( error => console.error(error));
     }, [base])
